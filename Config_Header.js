@@ -5,7 +5,7 @@ const LeftMenu = [
 	{
     	catalog: "Default Catalog",
     	transaction: "B2B FR",
-    	title: "CAROLINE ABRAM",
+    	title: "COMMANDE",
     	action:"createNewTransaction",
     	deepLink: 'transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2256d94f99-bad8-4322-98e9-7f1b31104fb5%5C%22%7D%22&StartIndex=0&SearchAll=false'
   },
