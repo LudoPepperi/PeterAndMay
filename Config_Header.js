@@ -15,8 +15,8 @@ const LeftMenu = [
     deepLink: 'list/all_activities'
   },
 	{
-    activity:"SAV",
-    title: " Réclamation",
+    activity:"Réclamation",
+    title: "SAV",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
   },
