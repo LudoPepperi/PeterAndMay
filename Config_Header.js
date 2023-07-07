@@ -2,6 +2,12 @@ var Transaction = 'B2B FR';
 var Catalog = 'Default Catalog'
 const logo = 'https://cpapi.pepperi.com/wrntyimages/distributors/30014695.jpg'
 const LeftMenu = [
+	
+	
+ 
+];
+const RightMenu = [
+
 	{
     	catalog: "Default Catalog",
     	transaction: "B2B FR",
@@ -19,11 +25,7 @@ const LeftMenu = [
     title: "SAV",
     action:"createNewActivity",
     deepLink: 'activities/details/{{UUID}}'
-  },
-	
- 
-];
-const RightMenu = [
+  }
 	
   /*{
         catalog: "Default Catalog",
