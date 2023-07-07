@@ -1,6 +1,6 @@
 var Transaction = 'B2B FR';
 var Catalog = 'Default Catalog'
-const logo = ''
+const logo = 'https://cpapi.pepperi.com/wrntyimages/distributors/30014695.jpg'
 const LeftMenu = [
 	{
     	catalog: "Default Catalog",
